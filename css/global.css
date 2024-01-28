@@ -76,9 +76,7 @@ body {
 }
 
 .profile {
-    position: fixed;
-    right: 3rem;
-    left: 3rem;
+    position: relative;
     top: 0;
     bottom: 0;
     border-radius: 3rem;
